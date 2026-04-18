@@ -1,0 +1,3 @@
+# CODEOWNERS template for live integration
+* @bulk-repo-settings-sync-action-test/platform
+*.md @bulk-repo-settings-sync-action-test/docs
